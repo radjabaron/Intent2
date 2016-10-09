@@ -1,4 +1,4 @@
-# Intent2
+# Intent 2
 
 <h3>1. Judul Aplikasi : Intent 2</h3>
 <h3>2. Scrennshoot :</h3>
